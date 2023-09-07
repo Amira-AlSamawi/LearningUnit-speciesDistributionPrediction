@@ -1,6 +1,4 @@
 
-library(terra)
-library(sf)
 library(randomForest)
 library(lpSolve)
 library(DescTools)
