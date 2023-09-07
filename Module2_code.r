@@ -1,8 +1,6 @@
 library(terra)
 library(sf)
-library(lpSolve)
-library(DescTools)
-library(irr)
+
 
 Load the cropped sentinel data 
 sentinel1 = rast("D:/GeoTraining Day 3/sentinel2_NDVI.tif")
