@@ -9,7 +9,9 @@ This repository provides some essential geospatial open educational materials to
 
 **Data:** Satellite images and tabular datasets.
 
-**number of modules:** 3
+**Number of modules:** 3
+
+**Level:** Upper-Intermediate 
 
 
 Please refer to our  [Wiki](https://github.com/Amira-AlSamawi/LearningUnit-speciesDistributionPrediction/wiki) for more information and details 
