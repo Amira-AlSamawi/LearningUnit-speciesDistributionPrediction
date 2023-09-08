@@ -1,13 +1,13 @@
-# Mini-corse on species Distribution Prediction
+# Mini-course on species Distribution Prediction
 
 
-This repository provides some essintial geospatial open educational materials to teach students how to predict the distribution of different species agints the satelments. It uses Machine Learning (ML), more specifically random forest model, to predict the landcover of the target area from satelite images in order to specify the satelments. Then, the correaltion between the satelments and different species can be analyzed using additional species distibution data. As a use case, we use the fogo island as our targeted area. 
+This repository provides some essential geospatial open educational materials to teach students how to predict the distribution of different species against the settlements. It uses Machine Learning (ML), more specifically a random forest model, to predict the landcover of the target area from satellite images in order to specify the settlements. Then, the correlation between the settlements and different species can be analyzed using additional species distribution data. As a use case, we use Fogo Island as our targeted area. 
 
 **Field:** Geospatial data analysis.
 
 **Platforms:** QGIS and R Studio.
 
-**Data:** Satalite images and tabular datasets.
+**Data:** Satellite images and tabular datasets.
 
 **number of modules:** 3
 
