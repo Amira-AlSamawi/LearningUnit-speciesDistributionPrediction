@@ -14,3 +14,6 @@ This repository provides some essential geospatial open educational materials to
 
 Please refer to our  [Wiki](https://github.com/Amira-AlSamawi/LearningUnit-speciesDistributionPrediction/wiki) for more information and details 
 
+
+***We wish you all the best and hope you can enjoy and succeed in every module of this course!***
+
